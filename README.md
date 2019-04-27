@@ -1,2 +1,22 @@
 # HomeWork3
-This is the task with using MassTransit
+Домашнее задание №3
+
+### Предварительные зависимости
+1) Установите Erlang
+2) Установите RabbitMQ
+3) Установите Postman
+
+### Установка и запуск
+1) Склонируйте проект
+```bash
+ $ git clone https://github.com/Rognak/HomeWork3.git
+```
+2) В проекте используется СУБД PostgreSQL. Восстановите БД, используя MyBD.sql.
+3) Проверьте строку ConnectionString в Services/UpdateInfoService.cs и Services/UserInfoService.cs и в случае необходимости настройте проведите её настройку.
+4) Запустите приложение и перейдите по адресу: https://localhost:44318/api/users/a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
+5) Выполните в Postman GET запрос и убедитесь, что он работает.
+6) Выполните в Postman PUT запрос (требуется обновление всех колонок таблица)
+
+### Известные проблемы
+1) MassTransit.RabbitMQ может слететь после запуска приложения. (с чем связано неизвестно)
+1) Если не получилось восстановить БД прошу написать мне.
