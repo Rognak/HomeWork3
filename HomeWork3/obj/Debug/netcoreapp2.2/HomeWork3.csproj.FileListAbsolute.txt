@@ -1,0 +1,14 @@
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.2\HomeWork3.deps.json
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.2\HomeWork3.runtimeconfig.json
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.2\HomeWork3.runtimeconfig.dev.json
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.2\HomeWork3.dll
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.csprojAssemblyReference.cache
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.RazorAssemblyInfo.cache
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.RazorAssemblyInfo.cs
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.AssemblyInfoInputs.cache
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.AssemblyInfo.cs
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.RazorTargetAssemblyInfo.cache
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.2\HomeWork3.pdb
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.dll
+C:\Users\Khliv\source\repos\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.2\HomeWork3.pdb
