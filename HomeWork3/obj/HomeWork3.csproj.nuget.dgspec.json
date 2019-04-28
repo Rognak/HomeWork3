@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Khliv\\source\\repos\\HomeWork3\\HomeWork3\\HomeWork3.csproj": {}
+    "C:\\Users\\Khliv\\Project\\HomeWork3\\HomeWork3\\HomeWork3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Khliv\\source\\repos\\HomeWork3\\HomeWork3\\HomeWork3.csproj": {
+    "C:\\Users\\Khliv\\Project\\HomeWork3\\HomeWork3\\HomeWork3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Khliv\\source\\repos\\HomeWork3\\HomeWork3\\HomeWork3.csproj",
+        "projectUniqueName": "C:\\Users\\Khliv\\Project\\HomeWork3\\HomeWork3\\HomeWork3.csproj",
         "projectName": "HomeWork3",
-        "projectPath": "C:\\Users\\Khliv\\source\\repos\\HomeWork3\\HomeWork3\\HomeWork3.csproj",
+        "projectPath": "C:\\Users\\Khliv\\Project\\HomeWork3\\HomeWork3\\HomeWork3.csproj",
         "packagesPath": "C:\\Users\\Khliv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Khliv\\source\\repos\\HomeWork3\\HomeWork3\\obj\\",
+        "outputPath": "C:\\Users\\Khliv\\Project\\HomeWork3\\HomeWork3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
